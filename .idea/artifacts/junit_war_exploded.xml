@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="junit:war exploded">
+    <output-path>$PROJECT_DIR$/junit/target/junit</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="junit" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/junit/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="junit/web/Web" />
+    </root>
+  </artifact>
+</component>
