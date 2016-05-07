@@ -1,0 +1,15 @@
+<alipay>
+    <is_success>T</is_success>
+    <request>
+        <param name="subject">声波支付-分账-sky</param>
+        <param name="sign_type">MD5</param>
+    </request>
+    <response>
+        <alipay>
+            <buyer_logon_id>138****0011</buyer_logon_id>
+            <out_trade_no>7085502131376415</out_trade_no>
+        </alipay>
+    </response>
+    <sign>ea489fc31da63253bab52ed77fb45eb7</sign>
+    <sign_type>MD5</sign_type>
+</alipay>

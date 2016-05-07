@@ -28,8 +28,12 @@
     <option name="SKIP_IMPORT_STATEMENTS" value="false" />
   </component>
   <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/junit" />
+    <file type="web" url="file://$PROJECT_DIR$/utils" />
   </component>
   <component name="IdProvider" IDEtalkID="C1C51D3127DC34EB469C4CD55B0BE1C1" />
   <component name="MavenProjectsManager">
